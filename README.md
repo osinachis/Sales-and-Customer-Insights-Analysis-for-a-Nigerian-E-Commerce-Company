@@ -197,5 +197,47 @@ Based on the analysis, the business should:
 -strengthen retention strategies for high-value customers
 -use dashboard monitoring to track performance continuously
 
-##
-Osinachi Esinulo
+## Files in This Project
+Suggested repository structure:
+Nigeria-Ecommerce-Capstone/
+│
+├── data/
+│   ├── raw/
+│   │   └── a_nigeria_ecommerce_raw_dataset.xlsx
+│   ├── cleaned/
+│   │   ├── orders_fact.csv
+│   │   ├── dim_customer.csv
+│   │   ├── dim_product.csv
+│   │   └── dim_date.csv
+│
+├── excel/
+│   └── cleaning_notes.xlsx
+│
+├── sql/
+│   ├── schema.sql
+│   ├── import.sql
+│   ├── analysis_queries.sql
+│   └── views.sql
+│
+├── powerbi/
+│   └── nigeria_ecommerce_dashboard.pbix
+│
+└── README.md
+
+## Project Value
+This project demonstrates practical skills in:
+-Excel data cleaning
+-SQL querying
+-relational data modeling
+-KPI development
+-dashboard design
+-business storytelling
+-end-to-end analytics workflow
+It is well suited for a portfolio, internship application, junior analyst role, or academic capstone submission.
+
+## Disclaimer
+This is a portfolio capstone project built around a realistic Nigerian e-commerce business scenario. The dataset is simulated for educational and portfolio purposes and does not represent private internal data from any actual company.
+
+## Author
+Osinachi Chigaemezu Esinulo
+Data Analyst Capstone Project

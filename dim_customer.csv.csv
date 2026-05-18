@@ -1,0 +1,9 @@
+﻿customer_id,customer_name,segment,city,region
+CUST001,Amina Bello,Retail,Oyo,Ibadan
+CUST002,Chinedu Okafor,Retail,Abuja,Abuja Municipal
+CUST003,Emeka Umeh,Corporate,Oyo,Ibadan
+CUST004,Tunde Adebayo,Corporate,Lagos,Ikeja
+CUST005,Adaobi Nnaji,Corporate,Rivers,Port Harcourt
+CUST006,Musa Ibrahim,SME,Kano,Kano Municipal
+CUST007,Ifeoma Eze,SME,Enugu,Enugu North
+CUST008,Sade Williams,Retail,Abuja,Abuja Municipal
